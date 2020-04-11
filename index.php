@@ -1,19 +1,27 @@
 <?php include_once 'header.php' ?>
 
 <div class="ftco-blocks-cover-1">
-  <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/home5.png')">
-    <div class="container ">
+  <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/schoolbldg/1.jpg')">
+  <div class="container marginOverlay">
       <div class="row align-items-center">
-        <div class="col-md-5 mt-5 pt-5">
-          <h1 class="mb-3 font-weight-bold text-teal">HOME</h1>
-          <p>This is our main page</p>
+        <div class="col-md-5 col-xs-3 mt-5 pt-5">
+          <br><br>
+          <h1 class="mb-3 font-weight-bold text-teal">Home</h1>
+          <div class="events">
+            <p class="font-gray-1" style="margin:2%;">Events-</p>
+            <div style="margin:1%;">
+              <p><b>Secondary</b><br>Marathi Din - Thursday - 27/2/2020.<br>Science Day - Friday -28/2/2020</p>
+            </div>
+          </div>
         </div>
-
       </div>
     </div>
   </div>
 </div>
 
+
+  
+        
 
 <div class="site-section bg-light">
   <div class="container-fluid">
@@ -58,14 +66,14 @@
     </div>
   </div>
 
-  
+
   <div class="container">
     <div class="row">
       <div class="col-md-6 mb-5 mb-md-0">
         <img src="images/img_1.jpg" alt="Image" class="img-fluid box_shw">
       </div>
       <div class="col-md-5 ml-auto pl-md-5">
-        <span class="text-cursive h5 text-red">About Us</span>
+        <h1 class="text-cursive text-red">About Us</h1>
         <h5 class="text-black">Acharya Shree Vijay Vallabh Pre-Primary, Primary and Secondary Schools are conducted by Acharya Shree Vijay Vallabh Rajasthani Jain Vidya Prasarak Trust, Pune.
           With the generous contribution from the members of the Trust, a suitable site was purchased for the location of the school. The foundation of the school was laid on November 24, 1983. The English medium school was opened on June 24, 1985 and within a short span of 4 years the school has developed into a full fledged school.
         </h5>
@@ -113,8 +121,9 @@
         <img src="images/frontpage/1_SubhashParmar.jpg" alt="Image" class="img-fluid box_shw" width="100%">
       </div>
       <div class="col-md-5 ml-auto pl-md-5">
-        <span class="text-cursive h5 text-red">Chairman's Message</span>
         <h2>Mr. Subhash Parmar </h2>
+        <span class="text-cursive h5 text-red">Chairman's Message-</span>
+        <br>
         <h5 class="text-black">Dear All,
           With a humble start in the year 1984 when the foundation of the school was laid, to this present day, the school has got established as a reputable institution. The school is conducted by Acharya Shree Vijay Vallabh Rajasthani Jain Vidya Prasarak Trust, Pune under the motivation of Acharya Shree Vijay Samudra Sureeshwarji Maharaj.
           In order to achieve our maxim "Faith in Knowledge", the management provided all the necessary facilities which enabled to achieve the goal of providing values to the students which helps them becoming a responsible citizen.
@@ -155,5 +164,5 @@
     </div>
   </div>
 </div>
-
+<?php include_once 'footer.php' ?>
 <?php include_once 'scripts.php' ?>

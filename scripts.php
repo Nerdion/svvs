@@ -16,6 +16,18 @@
 
 <script type="text/javascript" src="js/main.js"></script>
 <script type="text/javascript" src="js/custom.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var pageUrl = $(location).attr("href");
+        var page = pageUrl.substring(pageUrl.lastIndexOf('/') + 1);
+        $('nav.navbar > ul > li').removeClass('active');
+        page = page.slice(0,-4);
+        page = "#" + page;
+        $(page).addClass('active');
+    });
+</script>
+
 </body>
 
 </html>

@@ -1,11 +1,12 @@
 <?php include_once 'header.php' ?>
 <div class="ftco-blocks-cover-1">
-    <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/home5.png')">
-        <div class="container ">
+    <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/iecd/9.jpg')">
+        <div class="container marginOverlay">
             <div class="row align-items-center">
                 <div class="col-md-9">
+                    <br><br><br><br>
                     <h1 class="mb-3 font-weight-bold text-teal">Institute of Education and Career Development (IECD)</h1>
-                    <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span>
+                    <p><a href="index.php" class="text-white">Home</a> <span class="mx-3">/</span>
                         <strong>IECD</strong></p>
                 </div>
             </div>
@@ -15,7 +16,7 @@
 
 <div class="site-section bg-light">
     <div class="container-fluid">
-        <div class="row justify-content-center" id="campus">
+        <div class="row justify-content-center" id="iecd">
             <div class="col-md-9 col-xs-12 text-center">
             </div>
             <div class="col-md-9 col-xs-12">

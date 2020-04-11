@@ -1,7 +1,7 @@
 <?php include_once 'header.php' ?>
 <div class="ftco-blocks-cover-1">
-    <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/home5.png')">
-        <div class="container ">
+    <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/campus/schoolbldg/1.jpg')">
+        <div class="container marginOverlay">
             <div class="row align-items-center">
                 <div class="col-md-5 mt-5 pt-5">
                     <h1 class="mb-3 font-weight-bold text-teal">NewsLetter</h1>
@@ -18,39 +18,33 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="othercontent">
-                    <h2 class="text-center">News Letters</h2>
+                    <h2 class="text-center text-cursive text-red">News Letters</h2>
                     <div class="row">
                         <!-- start -->
                         <div class="col-md-4">
 
                             <div class="text-center">
-                                <h3 class="happening">26th January 2019</h3>
-                                <iframe src="newsletters/26January2019.pdf#toolbar=0" class="img-thumbnail" alt="NewsLetter-IssueNo-34"></iframe>
-
-
-                                <h3 class="happening" data-toggle="modal" data-target="#myModal26jan19">View PDF</h3>
+                                <h5 class="">26th January 2019</h5>
+                                <iframe class="newsletter" src="newsletters/26January2019.pdf#toolbar=0" class="img-thumbnail" alt="NewsLetter-IssueNo-34"></iframe>
+                                <h3 class="btn btn-danger btn-custom-1" data-toggle="modal" data-target="#myModal26jan19">View PDF</h3>
                             </div>
                         </div>
 
                         <div class="col-md-4">
-
                             <div class="text-center">
-                                <h3 class="happening">24th November 2018</h3>
-                                <iframe src="newsletters/24November2018.pdf#toolbar=0" class="img-thumbnail" alt="NewsLetter-IssueNo-34"></iframe>
+                                <h5 class="">24th November 2018</h5>
+                                <iframe class="newsletter" src="newsletters/24November2018.pdf#toolbar=0" class="img-thumbnail" alt="NewsLetter-IssueNo-34"></iframe>
 
 
-                                <h3 class="happening" data-toggle="modal" data-target="#myModal24nov18">View PDF</h3>
+                                <h3 class="btn btn-dark btn-custom-1" data-toggle="modal" data-target="#myModal24nov18">View PDF</h3>
                             </div>
                         </div>
 
                         <div class="col-md-4">
-
                             <div class="text-center">
-                                <h3 class="happening">15th August 2018</h3>
-                                <iframe src="newsletters/15August2018.pdf#toolbar=0" class="img-thumbnail" alt="NewsLetter-IssueNo-34"></iframe>
-
-
-                                <h3 class="happening" data-toggle="modal" data-target="#myModal15aug18">View PDF</h3>
+                                <h5 class="">15th August 2018</h5>
+                                <iframe class="newsletter" src="newsletters/15August2018.pdf#toolbar=0" class="img-thumbnail" alt="NewsLetter-IssueNo-34"></iframe>
+                                <h3 class="btn btn-warning btn-custom-1" data-toggle="modal" data-target="#myModal15aug18">View PDF</h3>
                             </div>
                         </div>
 

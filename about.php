@@ -2,13 +2,13 @@
 
 <div class="ftco-blocks-cover-1">
   <!-- data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.jpg')" -->
-  <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/hero_1.jpg')">
-    <div class="container">
+  <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/home/00.jpg')">
+    <div class="container marginOverlay">
       <div class="row align-items-center ">
 
         <div class="col-md-5 mt-5 pt-5">
           <h1 class="mb-3 font-weight-bold text-teal">About Us</h1>
-          <p><a href="index.html" class="text-white">Home</a> <span class="mx-3">/</span> <strong>About</strong></p>
+          <p><a href="index.php" class="text-white">Home</a> <span class="mx-3">/</span> <strong>About</strong></p>
         </div>
 
       </div>
@@ -22,7 +22,9 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <img src="images/img_1.jpg" alt="Image" class="img-fluid box_shw">
+        <h3 class="text-cursive h3 text-red">Newsletter</h3>
+        <iframe style="height: 60%; width:100%;" src="newsletters/26January2019.pdf#toolbar=0" class="img-thumbnail" alt="..."></iframe>
+        <a href="newsletter.php" class="btn btn-warning btn-custom-1 show_hide shadow_s">Read more newsletters</a>
       </div>
       <div class="col-md-5 ml-auto pl-md-5">
         <h3 class="text-cursive h3 text-red">About Us</h3>
