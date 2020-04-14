@@ -49,7 +49,7 @@
         <br> <br>
         <div class="row">
             <div class="col-lg-4 mb-4 mb-lg-0 scale_img">
-                <a href="#">
+                <a href="compuskills.php">
                     <div class="package text-center bg-white">
                         <h3 class="text-teal">Interschool Compuskills Championship</h3>
                     </div>

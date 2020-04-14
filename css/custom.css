@@ -1,3 +1,44 @@
+/*@media only screen and (min-width: 1025px) {
+    html {
+        scroll-behavior: smooth;
+        -webkit-overflow-scrolling: touch;
+    }
+}*/
+
+.verticalSlider {
+    list-style: none;
+    margin: 0;
+    margin-left: -10pt;
+    position: fixed !important;
+    top: 25%;
+    z-index: 99;
+    background-color: rgba(0, 0, 80, 0.75);
+    border-radius: 10%;
+    padding: 1%;
+}
+
+ul.verticalSlider li a {
+    text-decoration: none;
+    color: white;
+}
+
+ul.verticalSlider li {
+    margin: 0.5%;
+}
+
+ul.verticalSlider li:hover a {
+    font-size: xx-large;
+}
+
+.text-blue {
+    color: #3b5998;
+}
+
+#chairman:hover {
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
 .nav-item {
     font-family: 'Ubuntu';
 }
@@ -14,10 +55,6 @@
     width: 100%;
 }
 
-.dnd div div {
-    margin-top: 5px !important;
-}
-
 .marginOverlay {
     margin-top: 120px;
 }
@@ -30,7 +67,7 @@
 
 .title_head {
     font-size: 45px;
-    color: rgb(252, 252, 252) !important;
+    color: #ffffff !important;
     text-shadow: -2px 0 #00003A, -5px 3px 2px #00003A, 5px 0px 2px #00003A, 0 2px #00003A;
     font-family: 'Ubuntu', sans-serif !important;
     font-weight: bolder !important;

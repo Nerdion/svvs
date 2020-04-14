@@ -361,7 +361,7 @@ h5,
 }
 
 .btn.btn-teal {
-    background: #16c3b0;
+    background: #2ee8bd;
 }
 
 .btn.btn-danger {
@@ -616,7 +616,7 @@ h5,
 }
 
 .ul-check.teal li:before {
-    color: #16c3b0;
+    color: #2ee8bd;
 }
 
 .ul-check.danger li:before {
@@ -1960,7 +1960,7 @@ h5,
 }
 
 .post-entry-1.person-1.teal img {
-    border-color: #16c3b0;
+    border-color: #2ee8bd;
 }
 
 .post-entry-1.person-1.red img {
@@ -2581,7 +2581,7 @@ h5,
 
 .block-2.teal,
 .block-2.teal .wrap-icon {
-    background-color: #16c3b0;
+    background-color: #2ee8bd;
 }
 
 .text-red {
@@ -2687,7 +2687,7 @@ h5,
 }
 
 .pricing.teal .price {
-    background: #16c3b0;
+    background: #2ee8bd;
 }
 
 .pricing.danger .price {
@@ -2695,5 +2695,5 @@ h5,
 }
 
 .bg-teal {
-    background: #16c3b0;
+    background: #2ee8bd;
 }
