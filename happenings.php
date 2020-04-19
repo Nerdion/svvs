@@ -24,7 +24,7 @@
             <div class="col-lg-4 mb-4 mb-lg-0 scale_img">
                 <a href="#pre">
                     <div class="package text-center bg-white">
-                        <span class="img-wrap"><img src="images/flaticon/svg/001-jigsaw.svg" alt="Image"></span>
+                        <span class="img-wrap"><img src="logos/preprimary.png" alt="Image"></span>
                         <h3 class="text-teal">Pre-primary</h3>
                     </div>
                 </a>
@@ -32,7 +32,7 @@
             <div class="col-lg-4 mb-4 mb-lg-0 scale_img">
                 <a href="#pri">
                     <div class="package text-center bg-white">
-                        <span class="img-wrap"><img src="images/flaticon/svg/002-target.svg" alt="Image"></span>
+                        <span class="img-wrap"><img src="logos/primary.png" alt="Image"></span>
                         <h3 class="text-success">Primary</h3>
                     </div>
                 </a>
@@ -40,7 +40,7 @@
             <div class="col-lg-4 mb-4 mb-lg-0 scale_img">
                 <a href="#sec">
                     <div class="package text-center bg-white">
-                        <span class="img-wrap"><img src="images/flaticon/svg/003-mission.svg" alt="Image"></span>
+                        <span class="img-wrap"><img src="logos/secondary.png" alt="Image"></span>
                         <h3 class="text-danger">Secondary</h3>
                     </div>
                 </a>
@@ -76,7 +76,6 @@
 <div class="text-center">
 
     <div class="site-section content_selector" id="pre">
-
         <h2>Pre-primary</h2>
         <br> <br>
         <div class="container">
@@ -84,7 +83,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 red box_1" id="preAnnualC">
                         <span class="wrap-icon">
-                            <span class="icon-home"></span>
+                            <img class="image-title" src="logos/annualSocial.png" />
                         </span>
                         <h2>Annual Social</h2>
                     </div>
@@ -92,7 +91,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 yellow box_2" id="preacC">
                         <span class="wrap-icon">
-                            <span class="icon-person"></span>
+                            <img class="image-title" src="logos/artCraft.png" />
                         </span>
                         <h2>Art and Craft Exhibition</h2>
                     </div>
@@ -100,7 +99,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 teal box_3" id="preDayC">
                         <span class="wrap-icon">
-                            <span class="icon-cog"></span>
+                            <img class="image-title" src="logos/dayCelebration.png" />
                         </span>
                         <h2>Day Celebration</h2>
                     </div>
@@ -109,7 +108,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 red box_1" id="preSportsC">
                         <span class="wrap-icon">
-                            <span class="icon-home"></span>
+                            <img class="image-title" src="logos/sports.png" />
                         </span>
                         <h2>Sports</h2>
                     </div>
@@ -117,7 +116,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 yellow box_2" id="prevoC">
                         <span class="wrap-icon">
-                            <span class="icon-person"></span>
+                            <img class="image-title" src="logos/visitOuting.png" />
                         </span>
                         <h2>Visit and Outing</h2>
                     </div>
@@ -125,7 +124,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 teal box_3" id="preActC">
                         <span class="wrap-icon">
-                            <span class="icon-cog"></span>
+                            <img class="image-title" src="logos/activities.png" />
                         </span>
                         <h2>Activities</h2>
                     </div>
@@ -138,14 +137,74 @@
         <br> <br>
         <div class="container-fluid">
             <div class="row justify-content-center" id="preAnnual">
-                
+                <div class="col-md-9 col-xs-12">
+                    <h1 class="text-cursive text-black d-block">Annual Social</h1>
+                    <div class="owl-carousel nonloop-block-13">
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/1.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Motivating Principal along with her dedicated team of Pre Primary.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/2.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Jr.Kg & Sr.Kg children awakening the souls by recitation of shlokas.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/3.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Children performing dance showing “New Hopes to Life”.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/4.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Garba performance of Sr.Kg on account of Saraswati Poojan.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/5.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Playgroup children dancing to the rhythm of music.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/6.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Nursery children enjoying the boogie woogie dance.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/7.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Sr.kg & Jr.kg children performing a skit, thus giving a message “to be happy with what you are”.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/8.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Chief guest Mrs. Manishaji Dugad (Director of Lotus Khakra & Namkeen Products) being felicitated by our principal Mrs. Jacinta Manuel in the presence of our chairman Shri Subhashji Parmar sir, Shri Sureshji Parmar Sir, Shri Pukhrajji Sanghavi Sir.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/9.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Chief guest Mrs. Manishaji Dugad (Director of Lotus Khakra & Namkeen Products) being felicitated by our principal Mrs. Jacinta Manuel in the presence of our chairman Shri Subhashji Parmar sir, Shri Sureshji Parmar Sir, Shri Pukhrajji Sanghavi Sir.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/10.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Kavya Thakkur of Jr.Kg receiving prize by the hands of oue chief guest Mrs. Manishaji Dugad in presence of our principal Mrs. Jacinta Manuel in the presence of our chairman Shri Subhashji Parmar sir, Shri Sureshji Parmar Sir, Shri Pukhrajji Sanghavi Sir.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/11.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Neha Rathod of Sr.Kg receiving prize by the hands of oue chief guest Mrs. Manishaji Dugad in presence of our principal Mrs. Jacinta Manuel in the presence of our chairman Shri Subhashji Parmar sir, Shri Sureshji Parmar Sir, Shri Pukhrajji Sanghavi Sir.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/12.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Nursery children dancing to the song of “Galti se Mistake”.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/13.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Jr.Kg children performing dance on the song “School Chale Hum”.</h5>
+                        </div>
+                        <div class="testimonial">
+                            <img src="img/annualSocial/preprimary/14.jpg" alt="Image" class="vcard slide_img"><br>
+                            <h5>Performance of Sr.Kg children giving message on “Stop Child- Labour”.</h5>
+                        </div>
+                    </div>
+                </div>
 
             </div>
 
 
             <div class="row justify-content-center" id="preac">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Art & Craft</h1>
+                    <h1 class="text-cursive text-black d-block">Art & Craft</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/artcraft/preprimary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -177,7 +236,7 @@
 
             <div class="row justify-content-center" id="preDay">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Day celebration</h1>
+                    <h1 class="text-cursive text-black d-block">Day celebration</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/daycelebration/preprimary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -241,7 +300,7 @@
 
             <div class="row justify-content-center" id="preSports">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Sports</h1>
+                    <h1 class="text-cursive text-black d-block">Sports</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/sports/preprimary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -281,7 +340,7 @@
 
             <div class="row justify-content-center" id="prevo">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Visit and Outing</h1>
+                    <h1 class="text-cursive text-black d-block">Visit and Outing</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/visitouting/preprimary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -313,7 +372,7 @@
 
             <div class="row justify-content-center" id="preAct">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Activities</h1>
+                    <h1 class="text-cursive text-black d-block">Activities</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/workshops/preprimary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -345,7 +404,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 red box_1" id="priAnnualC">
                         <span class="wrap-icon">
-                            <span class="icon-home"></span>
+                            <img class="image-title" src="logos/annualSocial.png" />
                         </span>
                         <h2>Annual Social</h2>
                     </div>
@@ -353,7 +412,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 yellow box_2" id="priacC">
                         <span class="wrap-icon">
-                            <span class="icon-person"></span>
+                            <img class="image-title" src="logos/artCraft.png" />
                         </span>
                         <h2>Art and Craft Exhibition</h2>
                     </div>
@@ -361,7 +420,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 teal box_3" id="priDayC">
                         <span class="wrap-icon">
-                            <span class="icon-cog"></span>
+                            <img class="image-title" src="logos/dayCelebration.png" />
                         </span>
                         <h2>Day Celebration</h2>
                     </div>
@@ -370,7 +429,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 red box_1" id="priSportsC">
                         <span class="wrap-icon">
-                            <span class="icon-home"></span>
+                            <img class="image-title" src="logos/sports.png" />
                         </span>
                         <h2>Sports</h2>
                     </div>
@@ -378,7 +437,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 yellow box_2" id="privoC">
                         <span class="wrap-icon">
-                            <span class="icon-person"></span>
+                            <img class="image-title" src="logos/visitOuting.png" />
                         </span>
                         <h2>Visit and Outing</h2>
                     </div>
@@ -386,7 +445,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 teal box_3" id="priActC">
                         <span class="wrap-icon">
-                            <span class="icon-cog"></span>
+                            <img class="image-title" src="logos/activities.png" />
                         </span>
                         <h2>Activities</h2>
                     </div>
@@ -398,7 +457,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center" id="priAnnual">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Annual Social</h1>
+                    <h1 class="text-cursive text-black d-block">Annual Social</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/annualsocial/primary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -435,7 +494,7 @@
 
             <div class="row justify-content-center" id="priac">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Art & Craft</h1>
+                    <h1 class="text-cursive text-black d-block">Art & Craft</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/artcraft/primary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -475,7 +534,7 @@
 
             <div class="row justify-content-center" id="priDay">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Day celebration</h1>
+                    <h1 class="text-cursive text-black d-block">Day celebration</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/daycelebration/primary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -511,7 +570,7 @@
 
             <div class="row justify-content-center" id="priSports">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Sports</h1>
+                    <h1 class="text-cursive text-black d-block">Sports</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/sports/primary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -564,7 +623,7 @@
             <div class="row justify-content-center" id="privo">
                 <div class="col-md-9 col-xs-12">
 
-                    <h1 class="text-cursive text-red d-block">Visit and Outing</h1>
+                    <h1 class="text-cursive text-black d-block">Visit and Outing</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/visitouting/primary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -620,7 +679,7 @@
             <div class="row justify-content-center" id="priAct">
                 <div class="col-md-9 col-xs-12">
 
-                    <h1 class="text-cursive text-red d-block">Activities</h1>
+                    <h1 class="text-cursive text-black d-block">Activities</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/workshops/primary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -647,8 +706,7 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="block-2 red box_1" id="secAnnualC">
-                        <span class="wrap-icon">
-                            <span class="icon-home"></span>
+                        <span class="wrap-icon"><img class="image-title" src="logos/annualSocial.png" />
                         </span>
                         <h2>Annual Social</h2>
                     </div>
@@ -656,7 +714,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 yellow box_2" id="secacC">
                         <span class="wrap-icon">
-                            <span class="icon-person"></span>
+                            <img class="image-title" src="logos/artCraft.png" />
                         </span>
                         <h2>Art and Craft Exhibition</h2>
                     </div>
@@ -664,7 +722,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 teal box_3" id="secDayC">
                         <span class="wrap-icon">
-                            <span class="icon-cog"></span>
+                            <img class="image-title" src="logos/dayCelebration.png" />
                         </span>
                         <h2>Day Celebration</h2>
                     </div>
@@ -673,7 +731,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 red box_1" id="secSportsC">
                         <span class="wrap-icon">
-                            <span class="icon-home"></span>
+                            <img class="image-title" src="logos/sports.png" />
                         </span>
                         <h2>Sports</h2>
                     </div>
@@ -681,7 +739,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 yellow box_2" id="secvoC">
                         <span class="wrap-icon">
-                            <span class="icon-person"></span>
+                            <img class="image-title" src="logos/visitOuting.png" />
                         </span>
                         <h2>Visit and Outing</h2>
                     </div>
@@ -689,7 +747,7 @@
                 <div class="col-lg-4">
                     <div class="block-2 teal box_3" id="secActC">
                         <span class="wrap-icon">
-                            <span class="icon-cog"></span>
+                            <img class="image-title" src="logos/activities.png" />
                         </span>
                         <h2>Activities</h2>
                     </div>
@@ -703,7 +761,7 @@
             <div class="row justify-content-center" id="secAnnual">
                 <div class="col-md-9 col-xs-12">
 
-                    <h1 class="text-cursive text-red d-block">Annual Social</h1>
+                    <h1 class="text-cursive text-black d-block">Annual Social</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/annualsocial/secondary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -749,7 +807,7 @@
             <div class="row justify-content-center" id="secac">
                 <div class="col-md-9 col-xs-12">
 
-                    <h1 class="text-cursive text-red d-block">Art & Craft</h1>
+                    <h1 class="text-cursive text-black d-block">Art & Craft</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/artcraft/secondary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -793,7 +851,7 @@
 
             <div class="row justify-content-center" id="secDay">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Day celebration</h1>
+                    <h1 class="text-cursive text-black d-block">Day celebration</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/daycelebration/secondary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -810,7 +868,7 @@
             <div class="row justify-content-center" id="secSports">
                 <div class="col-md-9 col-xs-12">
 
-                    <h1 class="text-cursive text-red d-block">Sports</h1>
+                    <h1 class="text-cursive text-black d-block">Sports</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/sports/secondary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -874,7 +932,7 @@
 
             <div class="row justify-content-center" id="secvo">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Visit and Outing</h1>
+                    <h1 class="text-cursive text-black d-block">Visit and Outing</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/visitouting/secondary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -890,7 +948,7 @@
 
             <div class="row justify-content-center" id="secAct">
                 <div class="col-md-9 col-xs-12">
-                    <h1 class="text-cursive text-red d-block">Activities</h1>
+                    <h1 class="text-cursive text-black d-block">Activities</h1>
                     <div class="owl-carousel nonloop-block-13">
                         <div class="testimonial">
                             <img src="img/workshops/secondary/1.jpg" alt="Image" class="vcard slide_img"><br>
@@ -925,6 +983,7 @@
             target = '#' + target;
             e.preventDefault();
             $(target).show();
+            target.scrollIntoView();
         });
     });
 </script>

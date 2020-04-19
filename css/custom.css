@@ -5,6 +5,15 @@
     }
 }*/
 
+.content_selector div.row>div {
+    cursor: pointer;
+}
+
+.image-title {
+    margin-top: 10pt;
+    height: 35pt;
+}
+
 .verticalSlider {
     list-style: none;
     margin: 0;

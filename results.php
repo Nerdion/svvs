@@ -18,7 +18,7 @@
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-md-9 col-xs-12 text-center">
-                <h1 class="text-cursive text-red d-block">RESULTS</h1>
+                <h1 class="text-cursive text-black d-block">RESULTS</h1>
             </div>
             <div class="col-md-9 col-xs-12">
                 <div class="owl-carousel nonloop-block-13">

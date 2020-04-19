@@ -130,7 +130,7 @@
                 <img src="images/img_1.jpg" alt="Image" class="img-fluid box_shw">
             </div>
             <div class="col-md-5 ml-auto pl-md-5">
-                <span class="text-cursive h5 text-red">About</span>
+                <h2 class="text-cursive text-black">About IECDD</h2>
                 <p class="text-black">Institute of Education and Career Development (IECD) began with an aim of providing the students and their family members with different courses which will help them prosper in their career. It started with a purpose that the students along with their family members, parents, siblings should get involved in the creative leisure activities. These activities allow the learners to gain leadership experience, build confidence, and begin shaping a brighter future.
                     The activities, workshops and courses conducted here equipe our students with the skills they need to succeed in their life, such as leadership skills, ability to work in a team, prioritizing tasks, and managing time. It helps the students acquire life skills blended with good grades.</p>
                 <p></p>
@@ -138,7 +138,6 @@
                     While many activities at IECD commence at the beginning of the year, some of the short term courses are also introduced during the year. IECD aims at conducting career oriented courses mostly for home makers, siblings, past students and society at large. So far many parents and students have got benefitted through various courses conducted here. We are proud to announce that they are holding a better position and finance in their career.
                     We help to identify vision, values, interests, skills and abilities for the brighter future.
                 </p>
-                <p class="mt-5"><button href="#" class="btn btn-warning py-4 btn-custom-1 show_hide shadow_s">More About Us</button></p>
             </div>
         </div>
     </div>

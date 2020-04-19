@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="othercontent">
-                    <h2 class="text-center text-cursive text-red">News Letters</h2>
+                    <h2 class="text-center text-cursive text-black">News Letters</h2>
                     <div class="row">
                         <!-- start -->
                         <div class="col-md-4">

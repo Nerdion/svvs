@@ -22,12 +22,12 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h3 class="text-cursive h3 text-red">Newsletter</h3>
+        <h3 class="text-cursive h3 text-black">Newsletter</h3>
         <iframe style="height: 60%; width:100%;" src="newsletters/26January2019.pdf#toolbar=0" class="img-thumbnail" alt="..."></iframe>
         <a href="newsletter.php" class="btn btn-warning btn-custom-1 show_hide shadow_s">Read more newsletters</a>
       </div>
       <div class="col-md-5 ml-auto pl-md-5">
-        <h3 class="text-cursive h3 text-red">About Us</h3>
+        <h3 class="text-cursive h3 text-black">About Us</h3>
         <p><span>Acharya Shree Vijay Vallabh School is situated in the heart of Pune City. Our school was established in 1985, has an profound history and background in the field of education.
             Acharya Shree Vijay Vallabh School, inspired by the Maxim Motto "Faith in Knowledge" and abiding to invaluable core values that ultimately create a complete human being.
             We are a co-ed school which focuses on all round development of the students. We aim at creating responsible future citizens who excel in different fields and become the torch bearers of modern India with universal values. A team of enthusiastic and experienced teachers go beyond the classrooms and teach lessons using Educomp Smart Class wherein students retain the knowledge for a longer period of time.</span></p>

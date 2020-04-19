@@ -18,10 +18,17 @@
       </div>
       <div class="col-md-9 col-xs-9">
         <marquee onmouseover="this.stop()" onmouseout="this.start();" ontouchstart="this.stop()" direction="left" behavior="scroll">
-          <span style="font-size:140%;">Secondary ->
-            Marathi Din - Thursday - 27/2/2020.
-            Science Day - Friday -28/2/2020</span>
+          <span style="font-size:140%;">Admissions open for 2020-21...</span>
         </marquee>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-9 col-xs-1">
+      </div>
+      <div class="col-md-3 col-xs-11">
+          <h2>Events-</h2>
+          <p>Secondary-</p>
+          <p></p>
       </div>
     </div>
   </div>
@@ -94,7 +101,7 @@
         <a href="campus.php#languageLab">
           <div class="block-2 teal box_3">
             <span class="wrap-icon">
-              <span class="icon-home"></span>
+              <img class="image-title" src="logos/compuskills.png"/>
             </span>
             <h3>Chandraprakash Language <br>Lab</h3>
             <h5><b>The Chandra Prakash language lab</b> is a pioneering project by <b>Acharya Shree Vijay Vallabh School</b>, with a set up of 62 computers. It is for the students to acquire proficiency in different languages like English, Sanskrit, German, etc.</h5>

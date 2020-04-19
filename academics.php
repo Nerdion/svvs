@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-12 text-center">
-                <span class="text-cursive h5 text-red d-block" style="color:white">Type of schools</span>
+                <span class="text-cursive h5 d-block" style="color:white">Type of schools</span>
                 <h2 class="text-white">We provide education to-</h2>
             </div>
         </div>
@@ -25,7 +25,7 @@
             <div class="col-lg-4 mb-4 mb-lg-0 scale_img">
                 <a href="#pre">
                     <div class="package text-center bg-white">
-                        <span class="img-wrap"><img src="images/flaticon/svg/001-jigsaw.svg" alt="Image"></span>
+                        <span class="img-wrap"><img src="logos/preprimary.png" alt="Image"></span>
                         <h3 class="text-teal">Pre-primary</h3>
                         <p>Play Group - Sr.Kg.</p>
                     </div>
@@ -34,7 +34,7 @@
             <div class="col-lg-4 mb-4 mb-lg-0 scale_img">
                 <a href="#pri">
                     <div class="package text-center bg-white">
-                        <span class="img-wrap"><img src="images/flaticon/svg/002-target.svg" alt="Image"></span>
+                        <span class="img-wrap"><img src="logos/primary.png" alt="Image"></span>
                         <h3 class="text-success">Primary</h3>
                         <p>1st - 4th</p>
                     </div>
@@ -43,7 +43,7 @@
             <div class="col-lg-4 mb-4 mb-lg-0 scale_img">
                 <a href="#sec">
                     <div class="package text-center bg-white">
-                        <span class="img-wrap"><img src="images/flaticon/svg/003-mission.svg" alt="Image"></span>
+                        <span class="img-wrap"><img src="logos/secondary.png" alt="Image"></span>
                         <h3 class="text-danger">Secondary</h3>
                         <p>5th - 10th</p>
                     </div>
@@ -58,7 +58,7 @@
     <div class="container-fluid">
         <div class="row justify-content-center" id="pre">
             <div class="col-md-9 col-xs-12 text-center">
-                <h1 class="text-cursive text-red d-block">Pre-primary</h1>
+                <h1 class="text-cursive text-black d-block">Pre-primary</h1>
             </div>
             <div class="col-md-9 col-xs-12">
                 <div class="owl-carousel nonloop-block-13">
@@ -89,7 +89,7 @@
                 </div>
             </div>
             <div class="col-md-9 col-xs-12">
-                <p>The school curriculum revolves around the concept of multiple intelligences as accepted worldwide. These eight types of intelligences relate to a natural ability with words, numbers, painting, music, physical activity, nature, people and the sense of self. Hence following this model the school has designed a 3 hour school schedule.
+                <h5>The school curriculum revolves around the concept of multiple intelligences as accepted worldwide. These eight types of intelligences relate to a natural ability with words, numbers, painting, music, physical activity, nature, people and the sense of self. Hence following this model the school has designed a 3 hour school schedule.
                     <br>Children have time for having their natural abilities with plenty of learning activities-physical and creative, as well as time for meals and snacks. Grasping and learning is faster when children enjoy what they are doing. Keeping the ethics and values, the school offers right kind of educational system which is based on moral ethics. The school also believes that education will allow the child to bloom, blossom and thrives giving them the right platform where they will work towards becoming a responsible citizen.
                     <br>Hence the school curriculum has always aimed at the overall development of every child.
 
@@ -98,13 +98,13 @@
                     <br>Monday to Friday :
                     <br>Play Group Nursery : 8.30 am to 11.00 am.
                     <br>Jr. Kg and Sr. Kg : 8.30 am to 11.30 am.
-                </p>
+                </h5>
             </div>
         </div>
         <br> </br>
         <div class="row justify-content-center">
             <div class="col-md-9 col-xs-12 text-center" id="pri">
-                <h1 class="text-cursive text-red d-block">Primary</h1>
+                <h1 class="text-cursive text-black d-block">Primary</h1>
             </div>
             <div class="col-md-9 col-xs-12">
                 <div class="owl-carousel nonloop-block-13">
@@ -132,7 +132,7 @@
                 </div>
             </div>
             <div class="col-md-9 col-xs-12">
-                <p><b>Objectives:</b>
+                <h5><b>Objectives:</b>
                     <br>• To improve and enrich the syllabus.
                     <br>• To impart updated training to teachers.
                     <br>• To encourage health education in school.
@@ -160,13 +160,13 @@
                     <br>Monday to Friday: 7.50 am to 1.50 pm.
                     <br>Saturday: 7.50 am to 11.30 am.
 
-                </p>
+                </h5>
             </div>
         </div>
         <br> </br>
         <div class="row justify-content-center" id="sec">
             <div class="col-md-9 col-xs-12 text-center">
-                <h1 class="text-cursive text-red d-block">Secondary</h1>
+                <h1 class="text-cursive text-black d-block">Secondary</h1>
             </div>
             <div class="col-md-9 col-xs-12">
                 <div class="owl-carousel nonloop-block-13">
@@ -182,7 +182,7 @@
                 </div>
             </div>
             <div class="col-md-9 col-xs-12">
-                <p>Acharya Shree Vijay Vallabh Secondary School prepares the students for S.S.C examination of Maharashtra State Board of Secondary and Higher Secondary Education.
+                <h5>Acharya Shree Vijay Vallabh Secondary School prepares the students for S.S.C examination of Maharashtra State Board of Secondary and Higher Secondary Education.
                     <br>The School aims at the holistic development of the students including intellectual, physical, moral and social values. A number of Curricular and Co-curricular activities are arranged by the school for achieving this aim.
                     <br>"Tell me and I forget, teach me and I may remember, involve me and I learn."
                     <br>-Benjamin Franklin
@@ -204,7 +204,7 @@
                     <br>Schools Hours
                     <br>Monday to Friday: 7.50 am to 1.50 pm.
                     <br>Saturday: 7.50 am to 11.30 am.
-                </p>
+                </h5>
             </div>
         </div>
     </div>

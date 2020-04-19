@@ -54,9 +54,6 @@
                     <div class="testimonial">
                         <img src="images/awards/11.jpg" alt="Image" class="vcard slide_img">
                     </div>
-                    <div class="testimonial">
-                        <img src="images/awards/12.jpg" alt="Image" class="vcard slide_img">
-                    </div>
                 </div>
             </div>
 

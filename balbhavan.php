@@ -1,6 +1,6 @@
 <?php include_once 'header.php' ?>
 <div class="ftco-blocks-cover-1">
-    <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('img/visitouting/preprimary/1.jpg')">
+    <div class="site-section-cover overlay" data-stellar-background-ratio="0.5" style="background-image: url('images/balbhavan/wall.jpg')">
         <div class="container marginOverlay">
             <div class="row align-items-center">
                 <div class="col-md-5 mt-5 pt-5">
