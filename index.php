@@ -13,12 +13,12 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-md-2 col-xs-3">
-        <span class="h2">Events|</span>
+      <div class="col-md-3 col-xs-3">
+        <span class="h2">Announcements|</span>
       </div>
       <div class="col-md-9 col-xs-9">
         <marquee onmouseover="this.stop()" onmouseout="this.start();" ontouchstart="this.stop()" direction="left" behavior="scroll">
-          <span style="font-size:140%;">Admissions open for 2020-21...</span>
+          <span style="font-size:140%;">Admissions open for 2020-21</span>
         </marquee>
       </div>
     </div>
@@ -26,9 +26,8 @@
       <div class="col-md-9 col-xs-1">
       </div>
       <div class="col-md-3 col-xs-11">
-          <h2>Events-</h2>
-          <p>Secondary-</p>
-          <p></p>
+          <h4>Events: </h4>
+          <p>Secondary - <br>Marathi Din - Thursday - 27/2/2020.<br> Science Day - Friday -28/2/2020</p>
       </div>
     </div>
   </div>
