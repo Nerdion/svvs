@@ -39,64 +39,61 @@
     </div>
 
     <header role="banner">
-      <a href="index.php">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-1 col-xs-1"></div>
-            <div class="col-md-2 col-xs-3">
-              <img id="page_logo" src="img/logo.png" height="120em">
-            </div>
-            <div class="col-md-9 col-xs-8">
-              <br>
-              <p class="title_head">Acharya Shree Vijay Vallabh School</p>
-            </div>
-          </div>
-        </div>
-      </a>
       <div class="container">
-        <div class="menu-wrap d-flex align-items-center">
-          <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
-          <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block">
-            <ul class="navbar-nav js-clone-nav mr-auto">
-              <li id="index" class="nav-item text-black">
-                <a class="nav-link" href="index.php">Home</a>
-              </li>
-              <li id="campus" class="nav-item">
-                <a class="nav-link" href="campus.php">Campus</a>
-              </li>
-              <li id="results" class="nav-item">
-                <a class="nav-link" href="results.php">Results</a>
-              </li>
-              <li id="happenings" class="nav-item">
-                <a class="nav-link" href="happenings.php">Happenings</a>
-              </li>
-              <li id="iecd" class="nav-item">
-                <a class="nav-link" href="iecd.php">IECD</a>
-              </li>
-              <li id="compuskills" class="nav-item">
-                <a class="nav-link" href="compuskills.php">Compuskills</a>
-              </li>
-              <li id="about" class="nav-item">
-                <a class="nav-link" href="about.php">About</a>
-              </li>
-              <li id="academics" class="nav-item">
-                <a class="nav-link" href="academics.php">Academics</a>
-              </li>
-              <li id="awards" class="nav-item">
-                <a class="nav-link" href="awards.php">Awards</a>
-              </li>
-              <li id="balbhavan" class="nav-item">
-                <a class="nav-link" href="balbhavan.php">Balbhavan</a>
-              </li>
-              <li id="alumni" class="nav-item">
-                <a class="nav-link" href="alumni.php">Alumni</a>
-              </li>
-            </ul>
-          </nav>
+        <a href="index.php" class="row justify-content-center align-self-center">
+          <div class="col-md-1 col-xs-12">
+            <img id="page_logo" src="img/logo.png" height="100px">
+          </div>
+          <div class="col-md-8 col-xs-12">
+            <br>
+            <p class="title_head">ACHARYA SHREE VIJAY VALLABH SCHOOL</p>
+          </div>
+        </a>
+        <div class="row">
+          <div class="menu-wrap d-flex align-items-center col">
+            <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
+            <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block">
+              <ul class="navbar-nav js-clone-nav mr-auto">
+                <li id="index" class="nav-item text-black">
+                  <a class="nav-link" href="index.php">Home</a>
+                </li>
+                <li id="campus" class="nav-item">
+                  <a class="nav-link" href="campus.php">Campus</a>
+                </li>
+                <li id="results" class="nav-item">
+                  <a class="nav-link" href="results.php">Results</a>
+                </li>
+                <li id="happenings" class="nav-item">
+                  <a class="nav-link" href="happenings.php">Happenings</a>
+                </li>
+                <li id="iecd" class="nav-item">
+                  <a class="nav-link" href="iecd.php">IECD</a>
+                </li>
+                <li id="compuskills" class="nav-item">
+                  <a class="nav-link" href="compuskills.php">Compuskills</a>
+                </li>
+                <li id="about" class="nav-item">
+                  <a class="nav-link" href="about.php">About</a>
+                </li>
+                <li id="academics" class="nav-item">
+                  <a class="nav-link" href="academics.php">Academics</a>
+                </li>
+                <li id="awards" class="nav-item">
+                  <a class="nav-link" href="awards.php">Awards</a>
+                </li>
+                <li id="balbhavan" class="nav-item">
+                  <a class="nav-link" href="balbhavan.php">Balbhavan</a>
+                </li>
+                <li id="alumni" class="nav-item">
+                  <a class="nav-link" href="alumni.php">Alumni</a>
+                </li>
+              </ul>
+            </nav>
 
-          <div class="top-social ml-auto">
-            <a href="https://www.facebook.com/vijayvallabhpune/" target="_blank"><span style="font-size:30px;" class="icon-facebook text-blue"></span></a>
-            <a href="https://www.youtube.com/channel/UClGXzYiaJh19WU3afvhjkYg" target="_blank"><span style="font-size:30px;" class="icon-youtube text-danger"></span></a>
+            <div class="top-social ml-auto">
+              <a href="https://www.facebook.com/vijayvallabhpune/" target="_blank"><span style="font-size:30px;" class="icon-facebook text-blue"></span></a>
+              <a href="https://www.youtube.com/channel/UCIsQ8T6qKEerrUkZrqskl1g" target="_blank"><span style="font-size:30px;" class="icon-youtube text-danger"></span></a>
+            </div>
           </div>
         </div>
       </div>
