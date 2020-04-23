@@ -13,7 +13,6 @@ $(document).ready(function() {
     page = "#" + page;
     $(page).addClass('active');
 
-
     //code for hiding menu
     var toHide = ".verticalSlider > li";
 

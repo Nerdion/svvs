@@ -5,6 +5,29 @@
     }
 }*/
 
+@media only screen and (min-device-width: 374px) and (max-device-width: 700px) {
+    .title_head {
+        font-size: 1.25em;
+    }
+}
+
+@media (min-width: 1024px) {
+    .title_head {
+        font-size: 2.7em;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 1024px) {
+    .title_head {
+        font-size: 1.7em;
+    }
+}
+
+#page_logo {
+    display: block;
+    margin: 0 auto;
+}
+
 .content_selector div.row>div {
     cursor: pointer;
 }
@@ -75,12 +98,15 @@ ul.verticalSlider li:hover a {
 }
 
 .title_head {
-    font-size: 45px;
-    color: #ffffff !important;
-    text-shadow: -2px 0 #00003A, -5px 3px 2px #00003A, 5px 0px 2px #00003A, 0 2px #00003A;
+    text-align: center;
+    color: #00004a !important;
     font-family: 'Ubuntu', sans-serif !important;
     font-weight: bolder !important;
     line-height: 1.2;
+}
+
+header {
+    background-color: #fafafa;
 }
 
 bg_data {

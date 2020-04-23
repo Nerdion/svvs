@@ -28,10 +28,7 @@
 </head>
 
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-
-
   <div class="site-wrap" id="home-section">
-
     <div class="site-mobile-menu site-navbar-target">
       <div class="site-mobile-menu-header">
         <div class="site-mobile-menu-close mt-3">
@@ -41,30 +38,27 @@
       <div class="site-mobile-menu-body"></div>
     </div>
 
-    <header class="site-navbar site-navbar-target nav_bar_set" role="banner">
+    <header role="banner">
       <a href="index.php">
         <div class="container">
           <div class="row">
-            <div class="col-1"></div>
-            <div class="col-1 col-xs-12">
-              <img src="img/logo.png" height="110em">
+            <div class="col-md-1 col-xs-1"></div>
+            <div class="col-md-2 col-xs-3">
+              <img id="page_logo" src="img/logo.png" height="120em">
             </div>
-            <div class="col-1"></div>
-            <div class="col-md-9">
+            <div class="col-md-9 col-xs-8">
               <br>
               <p class="title_head">Acharya Shree Vijay Vallabh School</p>
             </div>
           </div>
         </div>
       </a>
-      <br>
       <div class="container">
         <div class="menu-wrap d-flex align-items-center">
           <span class="d-inline-block d-lg-none"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-black"></span></a></span>
-
           <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block">
             <ul class="navbar-nav js-clone-nav mr-auto">
-              <li id="index" class="nav-item">
+              <li id="index" class="nav-item text-black">
                 <a class="nav-link" href="index.php">Home</a>
               </li>
               <li id="campus" class="nav-item">
@@ -99,14 +93,11 @@
               </li>
             </ul>
           </nav>
-          <!-- Example split danger button -->
-
 
           <div class="top-social ml-auto">
             <a href="https://www.facebook.com/vijayvallabhpune/" target="_blank"><span style="font-size:30px;" class="icon-facebook text-blue"></span></a>
             <a href="https://www.youtube.com/channel/UClGXzYiaJh19WU3afvhjkYg" target="_blank"><span style="font-size:30px;" class="icon-youtube text-danger"></span></a>
           </div>
         </div>
-        <br><br>
       </div>
     </header>

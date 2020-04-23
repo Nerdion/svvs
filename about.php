@@ -47,14 +47,14 @@
       <div class="col-lg-6 mb-6 mb-lg-0" style="margin-bottom:5px;">
         <div class="package text-center bg-white" style="height:100%">
           <span class="img-wrap"><img class="scale_img" src="images/flaticon/svg/001-jigsaw.svg" alt="Image" class="img-fluid"></span>
-          <h3 class="text-teal">School Motto</h3>
+          <h2 class="text-black">School Motto</h2>
           <p>The motto of our school is ‘FAITH IN KNOWLEDGE’. As said by Rabindranath Tagore, “Faith is the bird that sings when the dawn is still dark”. Faith, at its core, is deep-rooted in the expectation of good things to come. Our school strongly believes that knowledge and education can help the students enlighten every path they walk through in life.</p>
         </div>
       </div>
       <div class="col-lg-6 mb-6 mb-lg-0">
         <div class="package text-center bg-white">
           <span class="img-wrap"><img class="scale_img" src="images/flaticon/svg/002-target.svg" alt="Image" class="img-fluid"></span>
-          <h3 class="text-success">Mission</h3>
+          <h2 class="text-black">Mission</h2>
           <h5>To create responsible citizens with scientific outlook, culture and tradition through holistic education.</h5>
           <p>The culture of our country has a very powerful impact on its educational patterns. Education as a part of culture has the twin functions of conservation and modification. We develop thinking skills by inculcating creativity, enquiry and introspection in our students. Bringing out the best in every child, enabling him/her to make the world a better place, by being true to self and world. Our Mission explains the relationship between culture, tradition and education using scientific outlook. We work by committing to ourselves, to academics, to inclusive development and with an environment of positivity and encouragement.</p>
         </div>
@@ -159,11 +159,11 @@
           <div class="testimonial">
             <h1> Pre-primary Section </h1>
             <img src="images/frontpage/4_JacintaManuel.jpg" alt="Image" class="vcard slide_img">
-            <br>  <br>
+            <br> <br>
             <p>“Children are not a distraction from more important work,<br>
-they are the most important work.”<br>
-C. S. Lewis.<br>
-</p>
+              they are the most important work.”<br>
+              C. S. Lewis.<br>
+            </p>
             <p>The school plays a central role in nurturing and developing the unique talent of every child and enabling them to blossom by discovering the joy of learning.
               <br>It is rightly said that a child learns from his surroundings. Since they absorb everything quickly it is the duty if the teacher/parent to make the child aware about the things happening around in the child’s vicinity. Every child should be exposed to different activities and important aspects to this tender age for a perfect upbringing.
               Acharya Shree Vijay Vallabh school commits to provide a safe and intellectually challenging environment that will empower students to become innovative thinkers, creative problem solvers and inspired learners prepared to thrive in the twenty first century. High standards and expectations for each student in regard to academic performance, co-curricular participation and responsible citizenship are the foundation of the school. It is with pride that the school holds these high standards and asks each of the students to commit to maintaining the extraordinary record of achievement and contribution that has been the legacy of the school.
