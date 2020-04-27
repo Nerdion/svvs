@@ -44,9 +44,10 @@
           <div class="col-md-1 col-xs-12">
             <img id="page_logo" src="img/logo.png" height="100px">
           </div>
+          <div class="col-md-1 col-xs-12"></div>
           <div class="col-md-8 col-xs-12">
             <br>
-            <p class="title_head">ACHARYA SHREE VIJAY VALLABH SCHOOL</p>
+            <p class="title_head">ACHARYA SHREE VIJAY VALLABH SCHOOL, PUNE</p>
           </div>
         </a>
         <div class="row">

@@ -151,9 +151,6 @@
           <div class="testimonial">
               <img src="images/campus/scilab/6.jpg" alt="Image" class="vcard slide_img">
           </div>
-          <div class="testimonial">
-              <img src="images/campus/scilab/7.jpg" alt="Image" class="vcard slide_img">
-          </div>
           </div>
         </div>
       </div>

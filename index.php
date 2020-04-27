@@ -1,6 +1,20 @@
 <?php include_once 'header.php' ?>
 
+<style>
 
+@media only screen and (min-device-width: 374px) and (max-device-width: 1024px) {
+  .site-section-cover {
+    background-image: url('images/campus/vvs_poster_phone.jpg');
+  }
+}
+
+@media (min-width: 1024px) {
+  .site-section-cover {
+    background-image: url('images/campus/vvs_poster.jpg');
+  }
+}
+
+</style>
 <div class="container-fluid" style="background-color: #00004a; color:white;">
   <div class="row">
     <div class="col-md-3 col-xs-3">
@@ -14,7 +28,7 @@
   </div>
 </div>
 <div class="ftco-blocks-cover-1">
-  <div class="site-section-cover" data-stellar-background-ratio="0.5" style="background-image: url('images/campus/vvs_poster.jpg')">
+  <div class="site-section-cover" data-stellar-background-ratio="0.5">
     <div class="container marginOverlay">
       <div class="row align-items-center">
         <div class="col-md-5 col-xs-3 mt-5 pt-5">
@@ -80,8 +94,6 @@
       </div>
     </div>
   </div>
-
-
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -108,8 +120,8 @@
             <span class="wrap-icon">
               <img class="image-title" src="logos/compuskills.png" />
             </span>
-            <h3>Chandra-Prakash<br> Language Lab</h3>
-            <h5><b>The Chandra Prakash language lab</b> is a pioneering project by <b>Acharya Shree Vijay Vallabh School</b>, with a set up of 62 computers. It is for the students to acquire proficiency in different languages like English, Sanskrit, German, etc.</h5>
+            <h3 class="text-black">Chandra-Prakash<br> Language Lab</h3>
+            <h5 class="text-black"><b>The Chandra Prakash language lab</b> is a pioneering project by <b>Acharya Shree Vijay Vallabh School</b>, with a set up of 62 computers. It is for the students to acquire proficiency in different languages like English, Sanskrit, German, etc.</h5>
           </div>
         </a>
       </div>
@@ -119,8 +131,8 @@
             <span class="wrap-icon">
               <span class="icon-person"></span>
             </span>
-            <h3>Interschool Compuskills Championship</h3>
-            <h5><b>Acharya Shree Vijay Vallabh School</b> in association with Computer Society of India(CSI), Maharashtra Knowledge Corporation Limited (MKCL),Tata Consultancy Services (TCS) and Rotary Club of Poona Midtown and Daily Maharashtra Times as a media partner has been organising a unique competition ‘Interschool Compuskills Championship’ using SCRATCH as a tool.</h5>
+            <h3 class="text-black">Interschool Compuskills Championship</h3>
+            <h5 class="text-black"><b>Acharya Shree Vijay Vallabh School</b> in association with Computer Society of India(CSI), Maharashtra Knowledge Corporation Limited (MKCL),Tata Consultancy Services (TCS) and Rotary Club of Poona Midtown and Daily Maharashtra Times as a media partner has been organising a unique competition ‘Interschool Compuskills Championship’ using SCRATCH as a tool.</h5>
           </div>
         </a>
       </div>
